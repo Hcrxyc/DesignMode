@@ -34,17 +34,17 @@ https://blog.csdn.net/A1342772/article/details/91349142
 
  有一个设计模式不属于GoF 23种设计模式，它就是简单工厂模式，也许是太“简单”了。
  
- ### 创造型模式
+ ### [创造型模式](https://github.com/Hcrxyc/DesignMode/blob/master/docs/%E5%88%9B%E9%80%A0%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
  **创建型模式主要用于描述如何创建对象**
  
  简单工厂模式、工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式
  
- ### 结构型模式
+ ### [结构型模式](https://github.com/Hcrxyc/DesignMode/blob/master/docs/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
  **结构型模式主要用于描述如何实现类或对象的组合**
  
  适配器模式、装饰者模式、代理模式、外观模式、桥接模式、组合模式、享元模式
  
- ### 行为型模式
+ ### [行为型模式](https://github.com/Hcrxyc/DesignMode/blob/master/docs/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
  **行为型模式主要用于描述类或对象怎样交互以及怎样分配职责**
  
  策略模式、模板方法模式、观察者模式、迭代子模式、责任链模式、命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式
